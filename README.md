@@ -13,7 +13,7 @@ Sono uno **sviluppatore Full Stack Junior** appassionato di tecnologie web moder
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## 🔥 Progetti in evidenza
-- 🗂️ **[TodoList App](https://github.com/JustKelu/e-commerce-app)** - App e-commerce con doppia UI per customer e seller, con React, Node.js Express.js, Helmet, express-validator, bcrypt
+- 🗂️ **[E-Commerce App](https://github.com/JustKelu/e-commerce-app)** - App e-commerce con doppia UI per customer e seller, con React, Node.js Express.js, Helmet, express-validator, bcrypt
 - 🗂️ **[TodoList App](https://github.com/JustKelu/TodoList-App)** - Gestionale personale con registrazione utenti, dashboard privata e CRUD completo. Stack: React + Node.js + PostgreSQL
 
 ## 🌱 Prossimi obiettivi
