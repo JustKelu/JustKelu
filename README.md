@@ -1,7 +1,7 @@
 # Ciao, sono Luca! 👋
 
 ## 🚀 Chi sono
-Sono uno **sviluppatore Full Stack Junior** appassionato di tecnologie web moderne. Dopo due mesi intensivi di studio autodidatta, sto costruendo il mio percorso nel mondo dello sviluppo software.
+Sono uno **sviluppatore Full Stack Junior** appassionato di tecnologie web moderne. Dopo quattro mesi intensivi di studio autodidatta, sto costruendo il mio percorso nel mondo dello sviluppo software.
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
