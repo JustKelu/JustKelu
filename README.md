@@ -1,7 +1,7 @@
 # Ciao, sono Luca! 👋
 
 ## 🚀 Chi sono
-Sono uno **sviluppatore Full Stack Junior** appassionato di tecnologie web moderne. Dopo quattro mesi intensivi di studio autodidatta, sto costruendo il mio percorso nel mondo dello sviluppo software.
+Sono uno **sviluppatore Full Stack Junior** appassionato di tecnologie web moderne.
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -14,7 +14,7 @@ Sono uno **sviluppatore Full Stack Junior** appassionato di tecnologie web moder
 
 ## 🔥 Progetti in evidenza
 - 🗂️ **[E-Commerce App](https://github.com/JustKelu/e-commerce-app)** - App e-commerce con doppia UI per customer e seller, con React, Node.js Express.js, Helmet, express-validator, bcrypt
-- 🗂️ **[TodoList App](https://github.com/JustKelu/TodoList-App)** - Gestionale personale con registrazione utenti, dashboard privata e CRUD completo. Stack: React + Node.js + PostgreSQL
+- 🗂️ **[Real Time Chat App](https://github.com/JustKelu/chat-app)** - App chat real time, che consente di creare nuove chat e gruppi real time basati sulla tecnologia websocket
 
 ## 🌱 Prossimi obiettivi
 - TypeScript per codice più robusto e scalabile
