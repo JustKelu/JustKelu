@@ -1,29 +1,30 @@
-# Ciao, sono Luca! 👋
+<div align="center">
+  <h1>Hi, my name is Luca.</h1>
 
-## 🚀 Chi sono
-Sono uno **sviluppatore Full Stack Junior** appassionato di tecnologie web moderne.
+  <h3>I'm a <strong>Full Stack Developer</strong> focused on software engineering. I enjoy testing things, understanding how they work, and improving them.</h3>
+  <br/>
+</div>
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2092D9?style=for-the-badge&logo=typescript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black)
+![React](https://img.shields.io/badge/-React-003693?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=black)
+![Esbuild](https://img.shields.io/badge/-Esbuild-C1A700?style=for-the-badge&logo=esbuild&logoColor=black)
+![Babel](https://img.shields.io/badge/-Babel-F7DF1E?style=for-the-badge&logo=babel&logoColor=black)
 
-## 🔥 Progetti in evidenza
-- 🗂️ **[E-Commerce App](https://github.com/JustKelu/e-commerce-app)** - App e-commerce con doppia UI per customer e seller, con React, Node.js Express.js, Helmet, express-validator, bcrypt
-- 🗂️ **[Real Time Chat App](https://github.com/JustKelu/chat-app)** - App chat real time, che consente di creare nuove chat e gruppi real time basati sulla tecnologia websocket
+## My main project
+- **[Phyre](https://github.com/JustKelu/phyre)**: A React full-stack framework that grows with you
 
-## 🌱 Prossimi obiettivi
-- TypeScript per codice più robusto e scalabile
-- Next.js per applicazioni full-stack moderne  
-- Testing automatizzato (Jest/Cypress)
+## Next steps
+- Improving in Rust to produce more performant code.
+- Study GitHub Actions to build production pipelines.
 
-## 📫 Contattami
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-oliva-0281b6222)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luca.oliva.dev@gmail.com)
+## Contact me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/luca-oliva-0281b6222)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=black)](mailto:luca.oliva.dev@gmail.com)
 
 ---
-⚡ *"Il codice è poesia che le macchine possono leggere"*
+*"Code is poetry that machines can read."*
