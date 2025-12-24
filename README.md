@@ -10,7 +10,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2092D9?style=for-the-badge&logo=typescript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black)
 ![React](https://img.shields.io/badge/-React-003693?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Esbuild](https://img.shields.io/badge/-Esbuild-C1A700?style=for-the-badge&logo=esbuild&logoColor=black)
 ![Babel](https://img.shields.io/badge/-Babel-F7DF1E?style=for-the-badge&logo=babel&logoColor=black)
